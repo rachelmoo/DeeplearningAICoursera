@@ -1,2 +1,2 @@
 # DeeplearningAICoursera
-Notes and exercises from Deeplearning.ai Coursera course
+Notes from Deeplearning.ai Coursera course (exercises not posted publicly due to honor code).
